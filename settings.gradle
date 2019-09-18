@@ -1,1 +1,1 @@
-include ':app', ':display_layouts', ':customeventsdemo'
+include ':app', ':display_layouts', ':customeventsdemo', ':asynctaskdemo'
